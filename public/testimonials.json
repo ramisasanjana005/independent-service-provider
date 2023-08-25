@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Hamza Uddin",
+        "comment": "Amazing Service!",
+        "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?t=st=1650226821~exp=1650227421~hmac=604db9ee0fea4f887cac7a32750c61ae26e25e28fbfdd6f1a27d7f1c90ceb1a7"
+    },
+    {
+        "id": 2,
+        "name": "Rezwana Amin",
+        "comment": "Each and every details was considered. Loved it!",
+        "img": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg?t=st=1650226821~exp=1650227421~hmac=00cd8576e068ec7954b4991b9f7048c0ee4df0dbaa656054f92f10b590fa47a8"
+    },
+    {
+        "id": 3,
+        "name": "Shoaib Hossain",
+        "comment": "Budget friendly option",
+        "img": "https://img.freepik.com/free-photo/portrait-handsome-european-male-student-has-gentle-smile-face-happy-hear-pleasant-news-stands-delighted-wears-round-spectacles-orange-jumper_273609-45004.jpg?t=st=1650226821~exp=1650227421~hmac=672a0ceeae89da9a07d4e86d051c40814461589656af6fa541350aaef1fa9e5e"
+    }
+]

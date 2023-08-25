@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "PACKAGE 01 - UPTO 500 PHOTOS",
+        "price": "20,000",
+        "description": "PACKAGE 01 - UPTO 500 PHOTOS...",
+        "img": "https://img.freepik.com/free-photo/handsome-african-guy-with-stylish-haircut-taking-photo-digital-camera_171337-1345.jpg?t=st=1650225914~exp=1650226514~hmac=4bfc95799b9f6ef00e83ed4dd4558f9470e2eb2cdede58679c7ff91606171193"
+    },
+    {
+        "id": 2,
+        "name": "PACKAGE 02 - UPTO 1000 PHOTOS",
+        "price": "35,000",
+        "description": "PACKAGE 02 - UPTO 1000 PHOTOS...",
+        "img": "https://img.freepik.com/free-photo/close-up-portrait-smiling-african-photographer-holding-photo-camera_171337-1343.jpg?t=st=1650225914~exp=1650226514~hmac=3b06557ca9fcd501bd6fa6525a100235d1a1170f5406c1157c26c7f235ab215e"
+    },
+    {
+        "id": 3,
+        "name": "PACKAGE 03 - UNLIMITED PHOTOS",
+        "price": "50,000",
+        "description": "PACKAGE 03 - UPTO 1000 PHOTOS...",
+        "img": "https://img.freepik.com/free-photo/concentrated-afro-american-man-taking-photo-digital-camera_171337-1346.jpg?t=st=1650225914~exp=1650226514~hmac=914524386144e9c927a9ec503d5f0038813ab8b35daf4886f2c4fce3240d4b5b"
+    }
+]

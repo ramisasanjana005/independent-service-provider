@@ -1,0 +1,11 @@
+.testimonial-container {
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.testimonial-img {
+    width: 300px;
+    height: 200px;
+}
